@@ -33,7 +33,7 @@
 
 .nav-link:hover::after {
     right: 0;
-    background-color:blue;
+    background-color: var(--color-main-black);
 }
 
 .nav::after {

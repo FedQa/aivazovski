@@ -45,7 +45,7 @@
 }
 
 .social-icon:hover {
-    fill: rgb(104, 184, 104);
+    fill: lightblue;
 }
 
 @media (max-width: 480px) {
